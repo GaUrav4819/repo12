@@ -16,6 +16,6 @@ public static void main(String [] args)
 	System.out.println("Enter the number to find out it is Odd or Even");
 	            int n=sc.nextInt();
 	System.out.println(isEven(n)== true ? "Number is Even"  :  "Number is Odd");
-System.out.println("Program for OddEven");
+
     }
 }
